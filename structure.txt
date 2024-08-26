@@ -1,0 +1,7 @@
+my-app/
+├── .env
+├── .gitignore
+├── package.json
+├── server.js
+└── client/
+    └── index.html
